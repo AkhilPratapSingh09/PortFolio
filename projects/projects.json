@@ -1,0 +1,33 @@
+[
+  {
+    "name": "AWS-DATA-STREAMING",
+    "desc": "It aims to design and implement a robust data processing system. That leverages Amazon Kinesis in order to process and analyze real-time data streams.",
+    "image": "AWS",
+    "category": "AWS Cloud",
+    "links": {
+      "view": "https://www.linkedin.com/in/akhil-ps0905/",
+      "code": "https://github.com/AkhilPratapSingh09/AWS-DATA-STREAMING"
+    }
+  },
+  {
+    "name": "SkyCast",
+    "desc": "It provides users with up-to-date weather information for a specific location, including the current temperature, hourly forecast, daily forecast, and weather conditions..",
+    "image": "Sky",
+    "category": "WEB",
+    "links": {
+      "view": "https://skycast-git-main-akhilpratapsingh09.vercel.app/",
+      "code": "https://github.com/AkhilPratapSingh09/SkyCast"
+    }
+  },
+  {
+    "name": "MathWebApp",
+    "desc": "The focus of this endeavor is on utilizing various Amazon Web Services (AWS) to create a seamless and efficient math web application..",
+    "image": "AWSM",
+    "category": "AWS Cloud",
+    "links": {
+      "view": "https://www.linkedin.com/in/akhil-ps0905/",
+      "code": "https://github.com/AkhilPratapSingh09/MathWebApp"
+    }
+  }
+  
+]
